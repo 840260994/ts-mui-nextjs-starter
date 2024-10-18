@@ -49,7 +49,7 @@ sections:
         image:
           type: Image
           url: /images/ts.svg
-          altText: Third item image
+          altText: 03 – Nosso Pessoal
         actions:
           - type: Button
             label: Learn more
