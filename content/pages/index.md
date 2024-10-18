@@ -58,16 +58,20 @@ sections:
             color: primary
       - type: Card
         title: 03 – Nosso Pessoal
-        text: |+
-          <div style="text-align: left">
-          Temos uma equipa de técnicos profssionais
+        text: >
+          <div style="text-align: left">Temos uma equipa de técnicos
+          profssionais
+
           qualificados com a experiência na área da tecnologia
+
           para responder às necessidades dos nossos clientes.
+
           Existimos por que fazem parte de nós e juntos unidos
-          desenvolvemos o país.
+
+          desenvolvemos o país.</div>
+
 
           </div>
-
         image:
           type: Image
           url: >-
