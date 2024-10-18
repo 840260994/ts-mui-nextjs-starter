@@ -91,8 +91,7 @@ sections:
           </div>
         image:
           type: Image
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/1222.PNG
           altText: Item image
         actions:
           - type: Button
