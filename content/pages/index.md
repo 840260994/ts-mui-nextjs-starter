@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: CardsSection
     title: Network Telecommunications
-    subtitle: ̋ CONECTANDO VOCÊ AO FUTUO ̏
+    subtitle: ̋ CONECTANDO VOCÊ AO FUTURO ̏
     items:
       - type: Card
         title: 01 – Nossos Serviços
