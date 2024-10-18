@@ -59,17 +59,13 @@ sections:
       - type: Card
         title: 03 – Nosso Pessoal
         text: >+
-          <div style="text-align: left">
-
-          Somos uma empresa  100% Moçambicana que actua nas áreas
-          deTelecomunicações e
+          <div style="text-align: left">Somos uma empresa 100% Moçambicana que
+          actu a nas áreas de Telecomunicações e
 
           Electricidade com a sede na Cidade de Nampula e estamos abertos para
           vos servir em todo
 
-          Moçambique aonde nossos clientes se encontram.
-
-          </div></div>
+          Moçambique aonde nossos clientes se encontram.</div>
 
         image:
           type: Image
