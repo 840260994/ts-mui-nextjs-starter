@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: CardsSection
-    title: Netwo
+    title: Network Telecommunications
     subtitle: The section subtitle
     items:
       - type: Card
