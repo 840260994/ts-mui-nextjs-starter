@@ -102,7 +102,7 @@ sections:
             color: primary
   - type: HeroSection
     title: Hero Title
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: Estamos aqui para fazer seu negócio crescer exponencialmente
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
