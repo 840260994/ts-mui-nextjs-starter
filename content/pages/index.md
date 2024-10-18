@@ -41,10 +41,15 @@ sections:
             color: primary
       - type: Card
         title: 02 – Quem Somos?
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Somos uma empresa 100% Moçambicana que actu a nas áreas de
+          Telecomunicações e
+
+          Electricidade com a sede na Cidade de Nampula e estamos abertos para
+          vos servir em todo
+
+          Moçambique aonde nossos clientes se encontram.
+
         image:
           type: Image
           url: /images/mui-5.svg
