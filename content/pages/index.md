@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: CardsSection
     title: Network Telecommunications
-    subtitle: Conectando
+    subtitle: ''
     items:
       - type: Card
         title: First Item Title
