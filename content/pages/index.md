@@ -127,17 +127,11 @@ sections:
   - type: CardsSection
     title: A melhor solução de TI com 6 anos de experiência
     subtitle: >-
-      Além disso, nossa organização valoriza a parceria de longo prazo com
-      nossos clientes. Estamos comprometidos em fornecer suporte contínuo e
-      manutenção para garantir o funcionamento ininterrupto dos sistemas
-      implantados. Nossa equipe de suporte técnico está pronta para ajudar e
-      resolver quaisquer problemas que possam surgir, garantindo a satisfação
-      total dos nossos clientes. Ao escolher a nossa organização como sua
-      solução de TI, você terá acesso a uma equipe experiente, soluções
-      personalizadas e suporte técnico de qualidade. Nosso objetivo é fornecer a
-      melhor solução de TI para impulsionar o crescimento e o sucesso do seu
-      negócio, sempre mantendo-nos à frente das demandas do mercado em constante
-      evolução.
+      Ao escolher a nossa organização como sua solução de TI, você terá acesso a
+      uma equipe experiente, soluções personalizadas e suporte técnico de
+      qualidade. Nosso objetivo é fornecer a melhor solução de TI para
+      impulsionar o crescimento e o sucesso do seu negócio, sempre mantendo-nos
+      à frente das demandas do mercado em constante evolução.
     items:
       - type: Card
         title: First Item Title
