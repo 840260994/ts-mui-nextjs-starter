@@ -127,30 +127,26 @@ sections:
   - type: CardsSection
     title: A melhor solução de TI com 6 anos de experiência
     subtitle: >-
-      A melhor solução de TI oferecida pela nossa organização é resultado de
-      seis anos de experiência e aprimoramento contínuo no setor. Ao longo desse
-      período, desenvolvemos uma reputação sólida como provedores de soluções
-      tecnológicas confiáveis e inovadoras. Nossa abordagem é centrada no
-      cliente, buscando compreender suas necessidades específicas e fornecer
-      soluções personalizadas que impulsionem seus negócios. Compreendemos que
-      cada empresa é única e requer soluções sob medida para otimizar seus
-      processos e alcançar resultados eficientes. Nossa equipe altamente
-      qualificada de profissionais de TI possui amplo conhecimento em uma
-      variedade de áreas, incluindo desenvolvimento de software, infraestrutura
-      de rede, segurança da informação e análise de dados. Estamos sempre
-      atualizados com as últimas tendências e tecnologias emergentes, garantindo
-      que nossos clientes tenham acesso às soluções mais avançadas do mercado.
-      Além disso, nossa organização valoriza a parceria de longo prazo com
-      nossos clientes. Estamos comprometidos em fornecer suporte contínuo e
-      manutenção para garantir o funcionamento ininterrupto dos sistemas
-      implantados. Nossa equipe de suporte técnico está pronta para ajudar e
-      resolver quaisquer problemas que possam surgir, garantindo a satisfação
-      total dos nossos clientes. Ao escolher a nossa organização como sua
-      solução de TI, você terá acesso a uma equipe experiente, soluções
-      personalizadas e suporte técnico de qualidade. Nosso objetivo é fornecer a
-      melhor solução de TI para impulsionar o crescimento e o sucesso do seu
-      negócio, sempre mantendo-nos à frente das demandas do mercado em constante
-      evolução.
+      Nossa abordagem é centrada no cliente, buscando compreender suas
+      necessidades específicas e fornecer soluções personalizadas que
+      impulsionem seus negócios. Compreendemos que cada empresa é única e requer
+      soluções sob medida para otimizar seus processos e alcançar resultados
+      eficientes. Nossa equipe altamente qualificada de profissionais de TI
+      possui amplo conhecimento em uma variedade de áreas, incluindo
+      desenvolvimento de software, infraestrutura de rede, segurança da
+      informação e análise de dados. Estamos sempre atualizados com as últimas
+      tendências e tecnologias emergentes, garantindo que nossos clientes tenham
+      acesso às soluções mais avançadas do mercado. Além disso, nossa
+      organização valoriza a parceria de longo prazo com nossos clientes.
+      Estamos comprometidos em fornecer suporte contínuo e manutenção para
+      garantir o funcionamento ininterrupto dos sistemas implantados. Nossa
+      equipe de suporte técnico está pronta para ajudar e resolver quaisquer
+      problemas que possam surgir, garantindo a satisfação total dos nossos
+      clientes. Ao escolher a nossa organização como sua solução de TI, você
+      terá acesso a uma equipe experiente, soluções personalizadas e suporte
+      técnico de qualidade. Nosso objetivo é fornecer a melhor solução de TI
+      para impulsionar o crescimento e o sucesso do seu negócio, sempre
+      mantendo-nos à frente das demandas do mercado em constante evolução.
     items:
       - type: Card
         title: First Item Title
