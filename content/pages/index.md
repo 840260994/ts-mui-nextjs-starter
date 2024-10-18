@@ -24,6 +24,22 @@ sections:
             variant: text
             color: primary
       - type: Card
+        title: ''
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          altText: 03 – Nosso Pessoal
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
+            size: medium
+            variant: text
+            color: primary
+      - type: Card
         title: 02 – Quem Somos?
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
@@ -33,22 +49,6 @@ sections:
           type: Image
           url: /images/mui-5.svg
           altText: Second item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
-      - type: Card
-        title: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        image:
-          type: Image
-          altText: 03 – Nosso Pessoal
         actions:
           - type: Button
             label: Learn more
