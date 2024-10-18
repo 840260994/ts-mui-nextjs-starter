@@ -101,7 +101,7 @@ sections:
             variant: text
             color: primary
   - type: HeroSection
-    title: Hero Title
+    title: Porque escolher-nos
     subtitle: Estamos aqui para fazer seu negócio crescer exponencialmente
     text: >
       This is the HeroSection component. You can visually edit this component &
