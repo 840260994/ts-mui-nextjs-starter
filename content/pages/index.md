@@ -164,10 +164,13 @@ sections:
             color: primary
       - type: Card
         title: Second Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Nossa abordagem é centrada no cliente, buscando compreender suas
+          necessidades específicas e fornecer soluções personalizadas que
+          impulsionem seus negócios. Compreendemos que cada empresa é única e
+          requer soluções sob medida para otimizar seus processos e alcançar
+          resultados eficientes.
+
         image:
           type: Image
           url: /images/mui-5.svg
