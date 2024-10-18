@@ -8,10 +8,18 @@ sections:
     items:
       - type: Card
         title: 01 – Nossos Serviços
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Fornecimento dos equipamentos de Telecomunicação, Informática,
+          Sistemas de Segurança e Provedor
+
+          de Internet de alta velocidade.
+
+
+
+
+
+
+
         image:
           type: Image
           url: /images/nextjs.svg
