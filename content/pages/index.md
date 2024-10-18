@@ -126,7 +126,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: A melhor solução de TI com 6 anos de experiência
-    subtitle: Section subtitle here
+    subtitle: ''
     items:
       - type: Card
         title: First Card Title
