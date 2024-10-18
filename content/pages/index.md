@@ -219,10 +219,14 @@ sections:
             color: primary
       - type: Card
         title: Second Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Além disso, nossa organização valoriza a parceria de longo prazo com
+          nossos clientes. Estamos comprometidos em fornecer suporte contínuo e
+          manutenção para garantir o funcionamento ininterrupto dos sistemas
+          implantados. Nossa equipe de suporte técnico está pronta para ajudar e
+          resolver quaisquer problemas que possam surgir, garantindo a
+          satisfação total dos nossos clientes.
+
         image:
           type: Image
           url: /images/mui-5.svg
