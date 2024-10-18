@@ -184,10 +184,14 @@ sections:
             color: primary
       - type: Card
         title: Third Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Nossa equipe altamente qualificada de profissionais de TI possui amplo
+          conhecimento em uma variedade de áreas, incluindo desenvolvimento de
+          software, infraestrutura de rede, segurança da informação e análise de
+          dados. Estamos sempre atualizados com as últimas tendências e
+          tecnologias emergentes, garantindo que nossos clientes tenham acesso
+          às soluções mais avançadas do mercado.
+
         image:
           type: Image
           url: /images/ts.svg
