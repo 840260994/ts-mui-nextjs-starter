@@ -33,10 +33,14 @@ sections:
             color: primary
       - type: Card
         title: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+
+          Tais como: Antenas Wireless (Links de Rádio) Ponto a Ponto,
+          Multiponto, Ruteres, Swichs, Cabos de rede (UTP), Computadores,
+          equipamentos de Segurança: Cerca elétrica, Câmeras de vigilância e
+          Alarmes, Antenas Starlink, Cabos, Ethernet Adapter e Suportes para
+          Starlink
+
         image:
           type: Image
           altText: 03 – Nosso Pessoal
