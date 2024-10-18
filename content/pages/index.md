@@ -64,7 +64,7 @@ sections:
 
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/111.PNG
           altText: Second item image
         actions:
           - type: Button
