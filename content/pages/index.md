@@ -126,12 +126,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: A melhor solução de TI com 6 anos de experiência
-    subtitle: >-
-      Ao escolher a nossa organização como sua solução de TI, você terá acesso a
-      uma equipe experiente, soluções personalizadas e suporte técnico de
-      qualidade. Nosso objetivo é fornecer a melhor solução de TI para
-      impulsionar o crescimento e o sucesso do seu negócio, sempre mantendo-nos
-      à frente das demandas do mercado em constante evolução.
+    subtitle: ''
     items:
       - type: Card
         title: First Item Title
