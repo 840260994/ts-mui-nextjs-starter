@@ -7,7 +7,7 @@ sections:
     subtitle: ̋ CONECTANDO VOCÊ AO FUTUO ̏
     items:
       - type: Card
-        title: First Item Title
+        title: 01 – Nossos Serviços
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
