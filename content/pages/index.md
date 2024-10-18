@@ -125,7 +125,7 @@ sections:
       url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
-    title: ''
+    title: A melhor solução de TI com 6 anos de experiência
     subtitle: The section subtitle
     items:
       - type: Card
