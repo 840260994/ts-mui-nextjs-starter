@@ -22,7 +22,7 @@ sections:
 
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/3.png
           altText: First item image
         actions:
           - type: Button
