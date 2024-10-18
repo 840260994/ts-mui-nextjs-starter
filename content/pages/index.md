@@ -235,10 +235,13 @@ sections:
             color: primary
       - type: Card
         title: Third Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Ao escolher a nossa organização como sua solução de TI, você terá
+          acesso a uma equipe experiente, soluções personalizadas e suporte
+          técnico de qualidade. Nosso objetivo é fornecer a melhor solução de TI
+          para impulsionar o crescimento e o sucesso do seu negócio, sempre
+          mantendo-nos à frente das demandas do mercado em constante evolução.
+
         image:
           type: Image
           url: /images/ts.svg
