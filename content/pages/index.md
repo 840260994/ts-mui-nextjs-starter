@@ -32,26 +32,6 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: ''
-        text: >+
-
-          Tais como: Antenas Wireless (Links de Rádio) Ponto a Ponto,
-          Multiponto, Ruteres, Swichs, Cabos de rede (UTP), Computadores,
-          equipamentos de Segurança: Cerca elétrica, Câmeras de vigilância e
-          Alarmes, Antenas Starlink, Cabos, Ethernet Adapter e Suportes para
-          Starlink
-
-        image:
-          type: Image
-          altText: 03 – Nosso Pessoal
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
-      - type: Card
         title: 02 – Quem Somos?
         text: >+
           Somos uma empresa 100% Moçambicana que actu a nas áreas de
@@ -66,6 +46,26 @@ sections:
           type: Image
           url: /images/111.PNG
           altText: Second item image
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
+            size: medium
+            variant: text
+            color: primary
+      - type: Card
+        title: ''
+        text: >+
+
+          Tais como: Antenas Wireless (Links de Rádio) Ponto a Ponto,
+          Multiponto, Ruteres, Swichs, Cabos de rede (UTP), Computadores,
+          equipamentos de Segurança: Cerca elétrica, Câmeras de vigilância e
+          Alarmes, Antenas Starlink, Cabos, Ethernet Adapter e Suportes para
+          Starlink
+
+        image:
+          type: Image
+          altText: 03 – Nosso Pessoal
         actions:
           - type: Button
             label: Learn more
