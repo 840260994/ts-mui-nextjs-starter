@@ -54,26 +54,6 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: ''
-        text: >+
-
-          Tais como: Antenas Wireless (Links de Rádio) Ponto a Ponto,
-          Multiponto, Ruteres, Swichs, Cabos de rede (UTP), Computadores,
-          equipamentos de Segurança: Cerca elétrica, Câmeras de vigilância e
-          Alarmes, Antenas Starlink, Cabos, Ethernet Adapter e Suportes para
-          Starlink
-
-        image:
-          type: Image
-          altText: 03 – Nosso Pessoal
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
-      - type: Card
         title: 03 – Nosso Pessoal
         text: >
           <div style="text-align: left">Temos uma equipa de técnicos
@@ -96,6 +76,26 @@ sections:
         actions:
           - type: Button
             label: Learn More
+            url: /
+            size: medium
+            variant: text
+            color: primary
+      - type: Card
+        title: ''
+        text: >+
+
+          Tais como: Antenas Wireless (Links de Rádio) Ponto a Ponto,
+          Multiponto, Ruteres, Swichs, Cabos de rede (UTP), Computadores,
+          equipamentos de Segurança: Cerca elétrica, Câmeras de vigilância e
+          Alarmes, Antenas Starlink, Cabos, Ethernet Adapter e Suportes para
+          Starlink
+
+        image:
+          type: Image
+          altText: 03 – Nosso Pessoal
+        actions:
+          - type: Button
+            label: Learn more
             url: /
             size: medium
             variant: text
