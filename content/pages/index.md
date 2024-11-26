@@ -55,7 +55,7 @@ sections:
             color: primary
       - type: Card
         title: 03 – Nosso Pessoal
-        text: >
+        text: >+
           <div style="text-align: left">Temos uma equipa de técnicos
           profssionais
 
@@ -67,8 +67,6 @@ sections:
 
           desenvolvemos o país.</div>
 
-
-          </div>
         image:
           type: Image
           url: /images/1222.PNG
