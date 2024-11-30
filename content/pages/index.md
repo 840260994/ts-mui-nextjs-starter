@@ -61,14 +61,7 @@ sections:
         actions: []
       - type: Card
         title: ''
-        text: >+
-
-          Tais como: Antenas Wireless (Links de Rádio) Ponto a Ponto,
-          Multiponto, Ruteres, Swichs, Cabos de rede (UTP), Computadores,
-          equipamentos de Segurança: Cerca elétrica, Câmeras de vigilância e
-          Alarmes, Antenas Starlink, Cabos, Ethernet Adapter e Suportes para
-          Starlink
-
+        text: ''
         image:
           type: Image
           altText: 03 – Nosso Pessoal
