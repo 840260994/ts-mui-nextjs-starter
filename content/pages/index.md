@@ -161,7 +161,7 @@ sections:
 
         actions: []
       - type: Card
-        title: Second Card Title
+        title: '400 Mega99,90 MZNpor mês'
         image:
           type: Image
           url: /images/mui-5.svg
