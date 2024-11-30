@@ -113,13 +113,6 @@ sections:
           altText: First item image
         actions: []
       - type: Card
-        title: Porque Escolher nos?
-        text: ''
-        image:
-          type: Image
-          altText: Second item image
-        actions: []
-      - type: Card
         title: Third Item Title
         text: ''
         image:
