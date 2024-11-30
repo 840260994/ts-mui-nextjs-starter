@@ -149,13 +149,16 @@ sections:
             color: primary
       - type: Card
         title: Ultra Velocidade
-        text: >+
+        text: >
+          Menor valor, ultra velocidade e melhor índice de satisfação que você
+          vai encontrar na região!
+
+
           Ao escolher a nossa organização como sua solução de TI, você terá
           acesso a uma equipe experiente, soluções personalizadas e suporte
           técnico de qualidade. Nosso objetivo é fornecer a melhor solução de TI
           para impulsionar o crescimento e o sucesso do seu negócio, sempre
           mantendo-nos à frente das demandas do mercado em constante evolução.
-
         image:
           type: Image
           url: /images/ts.svg
