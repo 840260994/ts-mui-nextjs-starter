@@ -3,7 +3,9 @@ title: About
 type: Page
 sections:
   - type: HeroSection
-    title: Example for H2 headline
+    title: >-
+      A Network Telecommunications é a Rede de Qualidade da África que fornece
+      serviços de conectividade via satélite para Moçambique, por Moçambicanos.
     subtitle: This is the subtitle
     text: >
       This is **Markdown** *text*.
