@@ -118,7 +118,7 @@ sections:
 
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/WhatsApp Image 2024-11-30 at 05.50.54.jpeg
           altText: Second item image
         actions: []
       - type: Card
