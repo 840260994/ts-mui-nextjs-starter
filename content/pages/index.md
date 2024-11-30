@@ -158,9 +158,18 @@ sections:
     title: Porque escolher-nos
     subtitle: "Fomos eleitos o provedor de internet com maior índice de satisfação de 2006!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Estamos aqui para fazer seu negócio crescer exponencialmente"
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      ### Tecnologia de alta performance para conexões Fibra Óptica
+
+
+      lém da TV, acesso gratuito de ultra velocidade de internet e facilidade em
+      conectar todos os seus aparelhos pelo Wifi, você ainda tem garantido um
+      serviço de suporte rápido e eficiente; Marcação de visita Técnica direto
+      na Central de Assinante.
+
+
+
+
+      . [Learn more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
         label: Start Building
