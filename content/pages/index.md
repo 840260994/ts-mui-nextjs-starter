@@ -148,7 +148,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Third Item Title
+        title: Ultra Velocidade
         text: >+
           Ao escolher a nossa organização como sua solução de TI, você terá
           acesso a uma equipe experiente, soluções personalizadas e suporte
