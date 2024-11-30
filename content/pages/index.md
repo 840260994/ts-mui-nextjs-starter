@@ -116,13 +116,7 @@ sections:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
         title: Sem letras miúdas
         text: >
