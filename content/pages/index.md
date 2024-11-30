@@ -155,9 +155,20 @@ sections:
           type: Image
           url: /images/WhatsApp Image 2024-11-30 at 05.50.44.jpeg
           altText: First item image
-        text: >+
-          Menor valor, ultra velocidade e melhor índice de satisfação que você
-          vai encontrar na região!
+        text: |+
+          *   Wi-Fi Grátis
+
+          *   Sem Taxa de instalação
+
+          *   Acesso Gratuito Paramount
+
+          *   Acesso Gratuito Noggin
+
+          *   \+ de 100 Cursos Grátis
+
+          *   Atendimento Personalizado
+
+
 
         actions: []
       - type: Card
