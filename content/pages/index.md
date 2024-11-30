@@ -100,7 +100,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: First Item Title
+        title: Entretenimento de sobra
         text: >+
           Nossa equipe altamente qualificada de profissionais de TI possui amplo
           conhecimento em uma variedade de áreas, incluindo desenvolvimento de
