@@ -84,13 +84,7 @@ sections:
       conectar todos os seus aparelhos pelo Wifi, você ainda tem garantido um
       serviço de suporte rápido e eficiente; Marcação de visita Técnica direto
       na Central de Assinante.
-    actions:
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/3.png
