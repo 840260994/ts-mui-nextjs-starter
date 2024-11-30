@@ -161,7 +161,7 @@ sections:
 
         actions: []
       - type: Card
-        title: '400 Mega99,90 MZN por mês'
+        title: '400 Mega 99,90 MZN por mês'
         image:
           type: Image
           url: /images/mui-5.svg
