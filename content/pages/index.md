@@ -125,14 +125,17 @@ sections:
             color: primary
       - type: Card
         title: Sem letras miúdas
-        text: >+
+        text: >
+          E nem burocracias! Assinatura simples e sem taxas escondidas que você
+          não conhece. Aqui você tem total transparência.
+
+
           Além disso, nossa organização valoriza a parceria de longo prazo com
           nossos clientes. Estamos comprometidos em fornecer suporte contínuo e
           manutenção para garantir o funcionamento ininterrupto dos sistemas
           implantados. Nossa equipe de suporte técnico está pronta para ajudar e
           resolver quaisquer problemas que possam surgir, garantindo a
           satisfação total dos nossos clientes.
-
         image:
           type: Image
           url: /images/mui-5.svg
