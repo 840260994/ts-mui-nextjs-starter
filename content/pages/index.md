@@ -133,7 +133,7 @@ sections:
 
         image:
           type: Image
-          url: /images/WhatsApp Image 2024-11-30 at 05.55.49.jpeg
+          url: /images/WhatsApp Image 2024-11-30 at 05.55.48.jpeg
           altText: Third item image
         actions: []
   - type: CardsSection
