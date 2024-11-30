@@ -149,7 +149,7 @@ sections:
           mantendo-nos à frente das demandas do mercado em constante evolução.
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/WhatsApp Image 2024-11-30 at 05.50.44.jpeg
           altText: Third item image
         actions: []
   - type: CardsSection
