@@ -6,7 +6,7 @@ sections:
     title: >-
       Fomos eleitos o provedor de internet com maior índice de satisfação de
       2006!
-    subtitle: The section subtitle
+    subtitle: Tecnologia de alta performance para conexões Fibra Óptica
     items:
       - type: Card
         title: First Item Title
