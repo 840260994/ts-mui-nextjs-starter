@@ -123,14 +123,7 @@ sections:
         actions: []
       - type: Card
         title: Third Item Title
-        text: >+
-          Nossa equipe altamente qualificada de profissionais de TI possui amplo
-          conhecimento em uma variedade de áreas, incluindo desenvolvimento de
-          software, infraestrutura de rede, segurança da informação e análise de
-          dados. Estamos sempre atualizados com as últimas tendências e
-          tecnologias emergentes, garantindo que nossos clientes tenham acesso
-          às soluções mais avançadas do mercado.
-
+        text: ''
         image:
           type: Image
           url: /images/WhatsApp Image 2024-11-30 at 05.55.48.jpeg
