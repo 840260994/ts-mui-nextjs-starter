@@ -96,7 +96,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: First Item Title
+        title: Entretenimento de sobra
         text: >
           A melhor solução de TI oferecida pela nossa organização é resultado de
           seis anos de experiência e aprimoramento contínuo no setor. Ao longo
