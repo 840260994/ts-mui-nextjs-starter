@@ -164,7 +164,7 @@ sections:
         title: '400 Mega 99,90 MZN por mês'
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/WhatsApp Image 2024-11-30 at 05.50.53.jpeg
           altText: Second item image
         text: |+
           *   Wi-Fi Grátis
