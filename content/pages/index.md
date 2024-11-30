@@ -157,13 +157,7 @@ sections:
           type: Image
           url: /images/ts.svg
           altText: Third item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
   - type: CardsSection
     title: A melhor solução de TI com 6 anos de experiência
     subtitle: ''
