@@ -89,7 +89,7 @@ sections:
     subtitle: ''
     items: []
   - type: CardsSection
-    title: Cards Section Title
+    title: O Melhor Custo x Benefício
     subtitle: ''
     items:
       - type: Card
