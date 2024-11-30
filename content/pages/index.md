@@ -113,7 +113,7 @@ sections:
           altText: First item image
         actions: []
       - type: Card
-        title: Poeque Escolher nos?
+        title: Porque Escolher nos?
         text: ''
         image:
           type: Image
