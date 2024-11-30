@@ -61,14 +61,7 @@ sections:
         actions: []
       - type: Card
         title: ''
-        text: >+
-
-          Tais como: Antenas Wireless (Links de Rádio) Ponto a Ponto,
-          Multiponto, Ruteres, Swichs, Cabos de rede (UTP), Computadores,
-          equipamentos de Segurança: Cerca elétrica, Câmeras de vigilância e
-          Alarmes, Antenas Starlink, Cabos, Ethernet Adapter e Suportes para
-          Starlink
-
+        text: ''
         image:
           type: Image
           altText: 03 – Nosso Pessoal
@@ -80,21 +73,43 @@ sections:
       ### Tecnologia de alta performance para conexões Fibra Óptica
 
 
-      lém da TV, acesso gratuito de ultra velocidade de internet e facilidade em
-      conectar todos os seus aparelhos pelo Wifi, você ainda tem garantido um
+      Além da TV, acesso gratuito de ultra velocidade de internet e facilidade
+      em conectar todos os seus aparelhos pelo Wifi, você ainda tem garantido um
       serviço de suporte rápido e eficiente; Marcação de visita Técnica direto
       na Central de Assinante.
     actions: []
     image:
       type: Image
-      url: /images/3.png
+      url: /images/WhatsApp Image 2024-11-30 at 05.50.54.jpeg
       altText: Hero section image
   - type: CardsSection
     title: >-
       Fomos eleitos o provedor de internet com maior índice de satisfação de
       2022!
     subtitle: ''
+    items: []
+  - type: CardsSection
+    title: A melhor solução de TI com 6 anos de experiência
+    subtitle: ''
     items:
+      - type: Card
+        title: Sem letras miúdas
+        text: >
+          E nem burocracias! Assinatura simples e sem taxas escondidas que você
+          não conhece. Aqui você tem total transparência.
+
+
+          Além disso, nossa organização valoriza a parceria de longo prazo com
+          nossos clientes. Estamos comprometidos em fornecer suporte contínuo e
+          manutenção para garantir o funcionamento ininterrupto dos sistemas
+          implantados. Nossa equipe de suporte técnico está pronta para ajudar e
+          resolver quaisquer problemas que possam surgir, garantindo a
+          satisfação total dos nossos clientes.
+        image:
+          type: Image
+          url: /images/WhatsApp Image 2024-11-30 at 05.55.48.jpeg
+          altText: Second item image
+        actions: []
       - type: Card
         title: Entretenimento de sobra
         text: >
@@ -102,145 +117,102 @@ sections:
           outros canais com um sinal estável.
 
 
-
-          A melhor solução de TI oferecida pela nossa organização é resultado de
-          seis anos de experiência e aprimoramento contínuo no setor. Ao longo
-          desse período, desenvolvemos uma reputação sólida como provedores de
-          soluções tecnológicas confiáveis e inovadoras.
-        image:
-          type: Image
-          url: /images/WhatsApp Image 2024-11-30 at 05.55.48.jpeg
-          altText: First item image
-        actions: []
-      - type: Card
-        title: Porque Escolher nos?
-        text: ''
-        image:
-          type: Image
-          url: /images/WhatsApp Image 2024-11-30 at 05.50.54.jpeg
-          altText: Second item image
-        actions: []
-      - type: Card
-        title: Third Item Title
-        text: ''
-        image:
-          type: Image
-          url: /images/WhatsApp Image 2024-11-30 at 05.55.48.jpeg
-          altText: Third item image
-        actions: []
-  - type: CardsSection
-    title: Cards Section Title
-    subtitle: ''
-    items:
-      - type: Card
-        title: First Item Title
-        text: >+
           Nossa equipe altamente qualificada de profissionais de TI possui amplo
           conhecimento em uma variedade de áreas, incluindo desenvolvimento de
           software, infraestrutura de rede, segurança da informação e análise de
           dados. Estamos sempre atualizados com as últimas tendências e
           tecnologias emergentes, garantindo que nossos clientes tenham acesso
           às soluções mais avançadas do mercado.
-
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/WhatsApp Image 2024-11-30 at 05.50.54.jpeg
           altText: First item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
-        title: Second Item Title
-        text: >+
-          Além disso, nossa organização valoriza a parceria de longo prazo com
-          nossos clientes. Estamos comprometidos em fornecer suporte contínuo e
-          manutenção para garantir o funcionamento ininterrupto dos sistemas
-          implantados. Nossa equipe de suporte técnico está pronta para ajudar e
-          resolver quaisquer problemas que possam surgir, garantindo a
-          satisfação total dos nossos clientes.
+        title: Ultra Velocidade
+        text: >
+          Menor valor, ultra velocidade e melhor índice de satisfação que você
+          vai encontrar na região!
 
-        image:
-          type: Image
-          url: /images/mui-5.svg
-          altText: Second item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
-      - type: Card
-        title: Third Item Title
-        text: >+
+
           Ao escolher a nossa organização como sua solução de TI, você terá
           acesso a uma equipe experiente, soluções personalizadas e suporte
           técnico de qualidade. Nosso objetivo é fornecer a melhor solução de TI
           para impulsionar o crescimento e o sucesso do seu negócio, sempre
           mantendo-nos à frente das demandas do mercado em constante evolução.
-
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/09191154049059.jpg
           altText: Third item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
   - type: CardsSection
-    title: A melhor solução de TI com 6 anos de experiência
+    title: Conheça nossos planos
     subtitle: ''
     items:
       - type: Card
-        title: First Card Title
+        title: '800 Mega149,90 MZN por mês'
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/WhatsApp Image 2024-11-30 at 05.50.44.jpeg
           altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        text: |+
+          *   Wi-Fi Grátis
+
+          *   Sem Taxa de instalação
+
+          *   Acesso Gratuito Paramount
+
+          *   Acesso Gratuito Noggin
+
+          *   \+ de 100 Cursos Grátis
+
+          *   Atendimento Personalizado
+
+
+
+        actions: []
       - type: Card
-        title: Second Card Title
+        title: '400 Mega 99,90 MZN por mês'
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/WhatsApp Image 2024-11-30 at 05.50.53.jpeg
           altText: Second item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        text: |+
+          *   Wi-Fi Grátis
+
+          *   Sem Taxa de instalação
+
+          *   Acesso Gratuito Paramount
+
+          *   Acesso Gratuito Noggin
+
+          *   \+ de 100 Cursos Grátis
+
+          *   Atendimento Personalizado
+
+
+
+        actions: []
       - type: Card
-        title: Third Card Title
+        title: '600 Mega119,90 MZN por mês'
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/WhatsApp Image 2024-11-30 at 05.50.45.jpeg
           altText: Third item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        text: |+
+          *   Wi-Fi Grátis
+
+          *   Sem Taxa de instalação
+
+          *   Acesso Gratuito Paramount
+
+          *   Acesso Gratuito Noggin
+
+          *   \+ de 100 Cursos Grátis
+
+          *   Atendimento Personalizado
+
+
+
+        actions: []
 ---
