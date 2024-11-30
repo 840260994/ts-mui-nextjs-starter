@@ -113,20 +113,20 @@ sections:
           altText: First item image
         actions: []
       - type: Card
-        title: Porque Escolher nos?
-        text: ''
-        image:
-          type: Image
-          url: /images/WhatsApp Image 2024-11-30 at 05.50.54.jpeg
-          altText: Second item image
-        actions: []
-      - type: Card
         title: Third Item Title
         text: ''
         image:
           type: Image
           url: /images/WhatsApp Image 2024-11-30 at 05.55.48.jpeg
           altText: Third item image
+        actions: []
+      - type: Card
+        title: Porque Escolher nos?
+        text: ''
+        image:
+          type: Image
+          url: /images/WhatsApp Image 2024-11-30 at 05.50.54.jpeg
+          altText: Second item image
         actions: []
   - type: CardsSection
     title: Cards Section Title
