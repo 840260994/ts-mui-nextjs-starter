@@ -150,7 +150,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: First Card Title
+        title: O Melhor Custo x Benefício
         image:
           type: Image
           url: /images/nextjs.svg
