@@ -165,11 +165,6 @@ sections:
       conectar todos os seus aparelhos pelo Wifi, você ainda tem garantido um
       serviço de suporte rápido e eficiente; Marcação de visita Técnica direto
       na Central de Assinante.
-
-
-
-
-      . [Learn more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
         label: Start Building
