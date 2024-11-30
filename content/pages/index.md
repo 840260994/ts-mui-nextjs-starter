@@ -115,13 +115,7 @@ sections:
           type: Image
           url: /images/1222.PNG
           altText: Item image
-        actions:
-          - type: Button
-            label: Learn More
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
         title: ''
         text: >+
