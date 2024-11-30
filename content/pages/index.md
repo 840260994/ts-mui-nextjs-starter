@@ -98,6 +98,11 @@ sections:
       - type: Card
         title: Entretenimento de sobra
         text: >
+          Aproveite o acesso gratuito da Paramount+ e Noggin além de diversos
+          outros canais com um sinal estável.
+
+
+
           A melhor solução de TI oferecida pela nossa organização é resultado de
           seis anos de experiência e aprimoramento contínuo no setor. Ao longo
           desse período, desenvolvemos uma reputação sólida como provedores de
