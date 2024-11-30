@@ -109,13 +109,7 @@ sections:
         actions: []
       - type: Card
         title: Second Item Title
-        text: >+
-          Nossa abordagem é centrada no cliente, buscando compreender suas
-          necessidades específicas e fornecer soluções personalizadas que
-          impulsionem seus negócios. Compreendemos que cada empresa é única e
-          requer soluções sob medida para otimizar seus processos e alcançar
-          resultados eficientes.
-
+        text: ''
         image:
           type: Image
           url: /images/WhatsApp Image 2024-11-30 at 05.50.54.jpeg
