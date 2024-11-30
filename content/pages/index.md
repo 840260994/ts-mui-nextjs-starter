@@ -159,10 +159,7 @@ sections:
           Menor valor, ultra velocidade e melhor índice de satisfação que você
           vai encontrar na região!
 
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        actions: []
       - type: Card
         title: Second Card Title
         image:
