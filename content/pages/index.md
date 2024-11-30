@@ -153,7 +153,7 @@ sections:
         title: O Melhor Custo x Benefício
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/WhatsApp Image 2024-11-30 at 05.50.44.jpeg
           altText: First item image
         text: >+
           Menor valor, ultra velocidade e melhor índice de satisfação que você
