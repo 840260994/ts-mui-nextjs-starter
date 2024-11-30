@@ -90,7 +90,9 @@ sections:
       url: /images/3.png
       altText: Hero section image
   - type: CardsSection
-    title: A melhor solução de TI com 6 anos de experiência
+    title: >-
+      Fomos eleitos o provedor de internet com maior índice de satisfação de
+      2022!
     subtitle: ''
     items:
       - type: Card
