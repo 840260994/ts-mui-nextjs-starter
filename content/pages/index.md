@@ -87,7 +87,7 @@ sections:
     actions: []
     image:
       type: Image
-      url: /images/3.png
+      url: /images/WhatsApp Image 2024-11-30 at 05.50.54.jpeg
       altText: Hero section image
   - type: CardsSection
     title: >-
