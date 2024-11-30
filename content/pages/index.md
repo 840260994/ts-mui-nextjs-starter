@@ -80,8 +80,8 @@ sections:
       ### Tecnologia de alta performance para conexões Fibra Óptica
 
 
-      lém da TV, acesso gratuito de ultra velocidade de internet e facilidade em
-      conectar todos os seus aparelhos pelo Wifi, você ainda tem garantido um
+      Além da TV, acesso gratuito de ultra velocidade de internet e facilidade
+      em conectar todos os seus aparelhos pelo Wifi, você ainda tem garantido um
       serviço de suporte rápido e eficiente; Marcação de visita Técnica direto
       na Central de Assinante.
     actions: []
