@@ -129,13 +129,7 @@ sections:
         image:
           type: Image
           altText: 03 – Nosso Pessoal
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
   - type: HeroSection
     title: Porque escolher-nos
     subtitle: "Fomos eleitos o provedor de internet com maior índice de satisfação de 2006!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Estamos aqui para fazer seu negócio crescer exponencialmente"
