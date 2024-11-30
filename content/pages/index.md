@@ -185,7 +185,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/3.png
       altText: Hero section image
   - type: CardsSection
     title: A melhor solução de TI com 6 anos de experiência
