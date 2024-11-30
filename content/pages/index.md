@@ -94,14 +94,7 @@ sections:
       Fomos eleitos o provedor de internet com maior índice de satisfação de
       2022!
     subtitle: ''
-    items:
-      - type: Card
-        title: Third Item Title
-        text: ''
-        image:
-          type: Image
-          altText: Third item image
-        actions: []
+    items: []
   - type: CardsSection
     title: Cards Section Title
     subtitle: ''
