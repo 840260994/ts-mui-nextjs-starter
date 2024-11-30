@@ -156,7 +156,7 @@ sections:
             color: primary
   - type: HeroSection
     title: Porque escolher-nos
-    subtitle: "Fomos eleitos o provedor de internet com maior índice de satisfação de 2006!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Estamos aqui para fazer seu negócio crescer exponencialmente"
+    subtitle: "Fomos eleitos o provedor de internet com maior índice de satisfação de 2006!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Estamos aqui para fazer seu negócio crescer exponencialmente"
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
