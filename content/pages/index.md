@@ -150,7 +150,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: '400 MegaR$99,90por mês'
+        title: '800 Mega149,90por mês'
         image:
           type: Image
           url: /images/WhatsApp Image 2024-11-30 at 05.50.44.jpeg
