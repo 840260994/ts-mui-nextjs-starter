@@ -3,7 +3,9 @@ title: Home
 type: Page
 sections:
   - type: CardsSection
-    title: Cards Section Title
+    title: >-
+      Fomos eleitos o provedor de internet com maior índice de satisfação de
+      2006!
     subtitle: The section subtitle
     items:
       - type: Card
