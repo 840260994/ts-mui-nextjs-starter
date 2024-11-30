@@ -101,14 +101,17 @@ sections:
     items:
       - type: Card
         title: Entretenimento de sobra
-        text: >+
+        text: >
+          Aproveite o acesso gratuito da Paramount+ e Noggin além de diversos
+          outros canais com um sinal estável.
+
+
           Nossa equipe altamente qualificada de profissionais de TI possui amplo
           conhecimento em uma variedade de áreas, incluindo desenvolvimento de
           software, infraestrutura de rede, segurança da informação e análise de
           dados. Estamos sempre atualizados com as últimas tendências e
           tecnologias emergentes, garantindo que nossos clientes tenham acesso
           às soluções mais avançadas do mercado.
-
         image:
           type: Image
           url: /images/nextjs.svg
