@@ -100,24 +100,6 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Entretenimento de sobra
-        text: >
-          Aproveite o acesso gratuito da Paramount+ e Noggin além de diversos
-          outros canais com um sinal estável.
-
-
-          Nossa equipe altamente qualificada de profissionais de TI possui amplo
-          conhecimento em uma variedade de áreas, incluindo desenvolvimento de
-          software, infraestrutura de rede, segurança da informação e análise de
-          dados. Estamos sempre atualizados com as últimas tendências e
-          tecnologias emergentes, garantindo que nossos clientes tenham acesso
-          às soluções mais avançadas do mercado.
-        image:
-          type: Image
-          url: /images/nextjs.svg
-          altText: First item image
-        actions: []
-      - type: Card
         title: Sem letras miúdas
         text: >
           E nem burocracias! Assinatura simples e sem taxas escondidas que você
@@ -134,6 +116,24 @@ sections:
           type: Image
           url: /images/mui-5.svg
           altText: Second item image
+        actions: []
+      - type: Card
+        title: Entretenimento de sobra
+        text: >
+          Aproveite o acesso gratuito da Paramount+ e Noggin além de diversos
+          outros canais com um sinal estável.
+
+
+          Nossa equipe altamente qualificada de profissionais de TI possui amplo
+          conhecimento em uma variedade de áreas, incluindo desenvolvimento de
+          software, infraestrutura de rede, segurança da informação e análise de
+          dados. Estamos sempre atualizados com as últimas tendências e
+          tecnologias emergentes, garantindo que nossos clientes tenham acesso
+          às soluções mais avançadas do mercado.
+        image:
+          type: Image
+          url: /images/nextjs.svg
+          altText: First item image
         actions: []
       - type: Card
         title: Ultra Velocidade
