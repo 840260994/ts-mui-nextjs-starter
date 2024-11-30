@@ -89,7 +89,7 @@ sections:
     subtitle: ''
     items: []
   - type: CardsSection
-    title: O Melhor Custo x Benefício
+    title: A melhor solução de TI com 6 anos de experiência
     subtitle: ''
     items:
       - type: Card
