@@ -113,7 +113,7 @@ sections:
           altText: First item image
         actions: []
       - type: Card
-        title: Second Item Title
+        title: Poeque Escolher nos?
         text: ''
         image:
           type: Image
