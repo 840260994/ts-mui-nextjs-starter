@@ -150,7 +150,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: O Melhor Custo x Benefício
+        title: '400 MegaR$99,90por mês'
         image:
           type: Image
           url: /images/WhatsApp Image 2024-11-30 at 05.50.44.jpeg
