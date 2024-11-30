@@ -10,8 +10,8 @@ sections:
       satélite
 
       para Moçambique, por Moçambicanos.
-    subtitle: This is the subtitle
-    text: >+
+    subtitle: 'Para que isto aconteça, temos:'
+    text: >
       Sendo uma empresa nascida e criada em África, compreendemos as
       oportunidades que a África oferece aos negócios e aos indivíduos.
       Oportunidades para criar as suas próprias regras, quebrar fronteiras e
@@ -20,5 +20,4 @@ sections:
       continente. Fornecemos tecnologia de classe mundial através de
       funcionários apaixonados e empenhados, que asseguram que cada experiência
       do cliente é valiosa
-
 ---
