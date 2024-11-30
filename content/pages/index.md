@@ -146,7 +146,7 @@ sections:
           altText: Third item image
         actions: []
   - type: CardsSection
-    title: A melhor solução de TI com 6 anos de experiência
+    title: Conheça nossos planos
     subtitle: ''
     items:
       - type: Card
