@@ -183,7 +183,7 @@ sections:
 
         actions: []
       - type: Card
-        title: '600 Mega119,90 MZNpor mês'
+        title: '600 Mega119,90 MZN por mês'
         image:
           type: Image
           url: /images/ts.svg
