@@ -124,7 +124,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Second Item Title
+        title: Sem letras miúdas
         text: >+
           Além disso, nossa organização valoriza a parceria de longo prazo com
           nossos clientes. Estamos comprometidos em fornecer suporte contínuo e
