@@ -104,7 +104,7 @@ sections:
           soluções tecnológicas confiáveis e inovadoras.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/WhatsApp Image 2024-11-30 at 05.55.48.jpeg
           altText: First item image
         actions: []
       - type: Card
