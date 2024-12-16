@@ -42,7 +42,7 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Serviços",
                 "underline": "hover",
                 "url": "https://docs.netlify.com/visual-editor/overview/"
             }
